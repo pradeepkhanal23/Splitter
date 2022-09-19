@@ -106,7 +106,7 @@ const Calculate = () => {
               : " total-people input-field "
           }`}
           placeholder="0"
-          value={people}
+          value={parseInt(people)}
           onChange={(e) => {
             let peopleValue = "";
             if (e.target.value === "" || people === 0) {
