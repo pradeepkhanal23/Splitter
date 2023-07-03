@@ -18,7 +18,7 @@ const Calculate = () => {
   } = useGlobalContext();
 
   function result() {
-    //useState took the value as string from input
+    //useState took the value as string
     if (
       amount !== "" &&
       (tip !== "" || custom !== "") &&
