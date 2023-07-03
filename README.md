@@ -1,6 +1,6 @@
 # Frontend Mentor Bill Splitter App
 
-This repository contains the code for a bill splitter app, developed as a solution to the [Frontend Mentor](https://www.frontendmentor.io) challenge. The app allows users to split a bill among a group of people, calculating the amount each person needs to pay.
+This repository contains the code for a bill splitter app, developed as a solution to the [Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX) challenge. The app allows users to split a bill among a group of people, calculating the amount each person needs to pay.
 
 ![Bill Splitter App](/src/images/assests/Screenshot%202023-07-03%20at%2011.29.12%20am.png)
 
@@ -35,25 +35,13 @@ To run the bill splitter app locally, follow these steps:
 4. Toggle the split option to choose between equal or unequal splitting.
 5. The app will automatically calculate and display the amount each person needs to pay, including the tip.
 
-## Contributing
-
-Contributions to this project are welcome. To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b my-feature-branch`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-feature-branch`
-5. Submit a pull request.
-
-Please make sure to update tests as appropriate.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-This app was developed as a solution to the [Frontend Mentor](https://www.frontendmentor.io) [bill splitter challenge](https://www.frontendmentor.io/challenges/bill-splitter-app-uncmB54AX).
+This app was developed as a solution to the [Frontend Mentor](https://www.frontendmentor.io) [Bill Splitter Challenge](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX).
 
 ## Contact
 
