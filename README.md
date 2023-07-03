@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Frontend Mentor Bill Splitter App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the code for a bill splitter app, developed as a solution to the [Frontend Mentor](https://www.frontendmentor.io) challenge. The app allows users to split a bill among a group of people, calculating the amount each person needs to pay.
 
-## Available Scripts
+![Bill Splitter App](/src/images/assests/Screenshot%202023-07-03%20at%2011.29.12%20am.png)
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Input the total bill amount.
+- Choose the number of people splitting the bill.
+- Select a tip percentage (10%, 15%, 20%, or a custom percentage).
+- Optionally include the option to split the bill evenly or unequally.
+- Calculates the amount each person needs to pay, including the tip.
+- Provides instant feedback on the bill split results.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- HTML
+- CSS
+- React
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To run the bill splitter app locally, follow these steps:
 
-### `npm run build`
+1. Clone the repository: `git clone https://github.com/pradeepkhanal23/Splitter.git`
+2. Navigate to the project directory: `cd Splitter`
+3. Open the `index.html` file in your web browser.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Enter the total bill amount in the provided input field.
+2. Choose the number of people splitting the bill from the dropdown.
+3. Select the tip percentage from the available options or enter a custom tip percentage.
+4. Toggle the split option to choose between equal or unequal splitting.
+5. The app will automatically calculate and display the amount each person needs to pay, including the tip.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributing
 
-### `npm run eject`
+Contributions to this project are welcome. To contribute, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Fork the repository.
+2. Create a new branch: `git checkout -b my-feature-branch`
+3. Make your changes and commit them: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin my-feature-branch`
+5. Submit a pull request.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Please make sure to update tests as appropriate.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project is licensed under the [MIT License](LICENSE).
 
-## Learn More
+## Acknowledgements
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This app was developed as a solution to the [Frontend Mentor](https://www.frontendmentor.io) [bill splitter challenge](https://www.frontendmentor.io/challenges/bill-splitter-app-uncmB54AX).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contact
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have any questions or suggestions, feel free to reach out to the project maintainer:
